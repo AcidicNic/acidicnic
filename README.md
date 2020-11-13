@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [TripLog](https://github.com/AcidicNic/TripLog)
 
-- 👨‍💻 All of my projects are available at [https://nicc.io](https://nicc.io)
+- 👨‍💻 All of my projects are available at [nicc.io](https://nicc.io)
 
 - 📫 How to reach me **nicole.rocha-abadie@students.makeschool.com**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1t5mO-CDHIlN4YtQXTzVZJGiJl4YMQUnRLp6qANp5j9E/edit?usp=sharing)
+- 📄 Check out my [resume](https://docs.google.com/document/d/1t5mO-CDHIlN4YtQXTzVZJGiJl4YMQUnRLp6qANp5j9E/edit?usp=sharing)
 
-- ⚡ Fun fact **I can solve a rubik's cubes in 30 seconds :)**
+- ⚡ Fun fact, I can solve a rubik's cubes in 30 seconds :)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
