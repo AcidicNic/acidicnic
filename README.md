@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [TripLog](https://github.com/AcidicNic/TripLog)
 
-- 👩‍💻 All of my projects are available at [nicc.io](https://nicc.io)
-
 - 📫 How to reach me **nicole.rocha-abadie@students.makeschool.com**
 
 - 📄 Check out my [resume](https://docs.google.com/document/d/1t5mO-CDHIlN4YtQXTzVZJGiJl4YMQUnRLp6qANp5j9E/edit?usp=sharing)
