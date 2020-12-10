@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing a Spigot Server](https://medium.com/@nicole_rocha_abadie/dockerizing-a-spigot-server-1a1193179c8c?source=rss-3c5b3ba468d5------2)
 - [How I Made a Program in GO  That Opens My Zoom Classes for Me](https://medium.com/@nicole_rocha_abadie/how-i-made-a-program-in-go-that-opens-my-zoom-classes-for-me-aab7acd658f4?source=rss-3c5b3ba468d5------2)
 - [Dynamic CSS Footer (That Stays Where It Should)](https://medium.com/@nicole_rocha_abadie/dynamic-css-footer-that-stays-where-it-should-2bdd320854a6?source=rss-3c5b3ba468d5------2)
 <!-- BLOG-POST-LIST:END -->
