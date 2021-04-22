@@ -14,12 +14,7 @@
   <img src="https://badges.pufler.dev/gists/acidicnic?style=flat-square&color=2bbc8a" alt="total gists"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=acidicnic&theme=onedark&no-frame=true" alt="acidicnic"/></a>
-</p> -->
-
 <h3 align="center">Medium Articles:</h3>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
