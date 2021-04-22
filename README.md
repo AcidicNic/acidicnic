@@ -15,10 +15,8 @@
 </p>
 
 <h3 align="center">Medium Articles:</h3>
-<p align="center">
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

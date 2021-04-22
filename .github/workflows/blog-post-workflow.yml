@@ -13,4 +13,4 @@ jobs:
         with:
           commit_message: "Updated readme with Medium data."
           feed_list: "https://medium.com/feed/@nicole_rocha_abadie"
-          template: $newline <a align='center' href='$url' target='_blank'>$title</a>
+          template: "$newline <a align='center' href='$url' target='_blank'>$title</a><br/>"
