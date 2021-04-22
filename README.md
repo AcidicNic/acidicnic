@@ -26,14 +26,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <!-- <a href="https://linkedin.com/in/nicoleabadie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicoleabadie" height=40 width=40 style="margin: 2px;" /></a> -->
   <a href="https://discord.gg/nicc#6921" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nicc#6921" height=40 width=40 style="margin: 2px;"/></a>
   <a href="https://medium.com/@nicole_rocha_abadie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nicole_rocha_abadie" height=40 width=40 style="margin: 2px;" /></a>
   <a href="https://www.hackerrank.com/nic4096" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nic4096" height=40 width=40 style="margin: 2px;" /></a>
   <a href="https://www.leetcode.com/acidicnic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="acidicnic" height=40 width=40 style="margin: 2px;" /></a>
 </p>
-
-<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) -->
 
 ---
 <h4 align="center">Programming Languages:</h4>
@@ -88,10 +85,6 @@
 </p>
 
 ---
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acidicnic&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="acidicnic" />
-</p> -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=acidicnic&theme=cobalt&show_icons=true&locale=en" alt="acidicnic" /></p>
 
