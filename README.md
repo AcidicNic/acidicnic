@@ -16,7 +16,7 @@
 
 <h3 align="center">Medium Articles:</h3>
 <p align='center'>
-  <!-- BLOG-POST-LIST:START --><a href='https://medium.com/@nicole_rocha_abadie/dockerizing-a-spigot-server-1a1193179c8c?source=rss-3c5b3ba468d5------2' target='_blank'>Dockerizing a Spigot Server</a><br/><a href='https://medium.com/@nicole_rocha_abadie/how-i-made-a-program-in-go-that-opens-my-zoom-classes-for-me-aab7acd658f4?source=rss-3c5b3ba468d5------2' target='_blank'>How I Made a Program in GO  That Opens My Zoom Classes for Me</a><br/><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><a href='https://medium.com/@nicole_rocha_abadie/why-you-should-care-about-ethereum-2-f680faecd541?source=rss-3c5b3ba468d5------2' target='_blank'>Why You Should Care About Ethereum 2</a><br/><a href='https://medium.com/@nicole_rocha_abadie/dockerizing-a-spigot-server-1a1193179c8c?source=rss-3c5b3ba468d5------2' target='_blank'>Dockerizing a Spigot Server</a><br/><a href='https://medium.com/@nicole_rocha_abadie/how-i-made-a-program-in-go-that-opens-my-zoom-classes-for-me-aab7acd658f4?source=rss-3c5b3ba468d5------2' target='_blank'>How I Made a Program in GO  That Opens My Zoom Classes for Me</a><br/><!-- BLOG-POST-LIST:END -->
 </p>
 
 <h3 align="center">Connect with me:</h3>
