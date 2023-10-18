@@ -31,7 +31,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acidicnic&theme=cobalt" alt="acidicnic" /></p>
 
 
-<h2 align="center">Languages</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Languages</h2>
 
 <h3 align="center"><a href="#">&#x200B;</a>💖 Very Comfortable With 💖</h3>
 
